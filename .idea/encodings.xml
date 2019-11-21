@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/src/main/java/Clerk.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Client.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ClientQueue.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Department.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Main.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/RandomScales.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Request.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Time.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/statisticsCredits.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/statisticsInvest.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/statisticsService.txt" charset="windows-1251" />
+  </component>
+</project>
